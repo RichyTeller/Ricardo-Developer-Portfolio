@@ -19,3 +19,6 @@
 @media(max-width:1100px){.hero h1{max-width:680px;font-size:clamp(43px,6vw,70px)}.hero-copy{max-width:52%}.hero-orbit{right:-12%;width:58vw;top:110px}}
 @media(max-width:900px){.hero-orbit{opacity:.55;right:-18%;top:140px;width:66vw}.hero-copy{max-width:65%}}
 @media(max-width:650px){.hero{min-height:740px;padding-top:75px;padding-bottom:370px}.hero h1{font-size:clamp(38px,9vw,52px)}.hero-copy{max-width:100%}.hero-orbit{opacity:.82;top:auto;bottom:-15px;right:-13%;width:100%;height:390px}.hero-orbit::before{top:0;right:15%;width:55%}.hero-meta{margin-top:30px}}
+
+/* Centered copyright footer */
+footer.wrap{justify-content:center;align-items:center;text-align:center}
