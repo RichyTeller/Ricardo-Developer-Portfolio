@@ -33,7 +33,7 @@ const extras={
  'All projects':'Todos los proyectos',
  'Web':'Web',
  'Java':'Java',
- 'Alura · Back-End Developer':'Alura · Back-End Developer',
+ 'Alura · Back-End Developer':'Alura · Desarrollo Back-End',
  'HTML5 · CSS3 · JavaScript · DOM · Flexbox · CSS Grid · Responsive layouts · Web accessibility fundamentals':'HTML5 · CSS3 · JavaScript · DOM · Flexbox · CSS Grid · Diseños adaptables · Fundamentos de accesibilidad web',
  'Java · Python fundamentals · SQL fundamentals · Object-oriented programming · JSON · REST API concepts':'Java · Fundamentos de Python · Fundamentos de SQL · Programación orientada a objetos · JSON · Conceptos de API REST',
  'Git · GitHub · VS Code · Chrome DevTools · Node.js / NPM fundamentals · IntelliJ IDEA':'Git · GitHub · VS Code · Herramientas de desarrollo de Chrome · Fundamentos de Node.js y NPM · IntelliJ IDEA',
